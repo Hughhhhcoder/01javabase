@@ -6,7 +6,7 @@ class Enum{
 public class EnumTest {
     public static void main(String[] args){
         Enum jucie = new Enum();
-        jucie.size = Enum.EnumSize.s;
+        jucie.size = Enum.EnumSize.l;
     }
 
 
